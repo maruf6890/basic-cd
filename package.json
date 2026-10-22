@@ -1,0 +1,13 @@
+{
+  "name": "basic-express-server",
+  "version": "1.0.0",
+  "description": "A basic Express.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
